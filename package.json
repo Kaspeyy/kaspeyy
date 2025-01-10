@@ -1,12 +1,12 @@
 {
-  "name": "glaceyt",
-  "version": "3.0.0",
-  "description": "dynamic status and heartbeat",
+  "name": "status",
+  "version": "0",
+  "description": "something",
   "main": "index.js",
   "scripts": {
     "start": "node index.js"
   },
-  "author": "SHIVA", 
+  "author": ".", 
   "license": "MIT", 
   "dependencies": {
     "discord.js": "^14.16.1",
